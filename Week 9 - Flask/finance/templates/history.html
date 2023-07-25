@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    History
+{% endblock %}
+
+{% block main %}
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col" class="text-start">Symbol</th>
+            <th scope="col" class="text-start">Name</th>
+            <th scope="col" class="text-end">Shares</th>
+            <th scope="col" class="text-end">Price</th>
+            <th scope="col" class="text-end">Type</th>
+            <th scope="col" class="text-end">Transacted</th>
+        </tr>
+    </thead>
+    <tbody>
+            {% for user_history in user_history %}
+            <tr>
+                <td class="text-start">{{ user_history.share_symbol }}</td>
+                <td class="text-start">{{ user_history.share_name }}</td>
+                <td class="text-end">{{ user_history.number_share }}</td>
+                <td class="text-end">{{ usd(user_history.share_price) }}</td>
+                <td class="text-end">{{ user_history.type }}</td>
+                <td class="text-end">{{ user_history.date }} - {{ user_history.time }}</td>
+            </tr>
+            {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
