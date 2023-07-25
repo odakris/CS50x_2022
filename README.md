@@ -62,3 +62,36 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 - [Credit](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/sentimental-credit/credit.py) : _Given a credit card number, determine card type (VISA,MASTERCARD,AMEX or INVALID) according to Luhn’s algorithm._
 - [Readability](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/sentimental-readability/readability.py) : _Computes the approximate grade level needed to comprehend some text._
 - [DNA](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/dna/dna.py) : _Program that identifies a person based on their DNA._
+
+<hr></hr>
+
+:seven: **Week 7 - SQL** 
+<br></br> 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+- [Songs](https://github.com/odakris/CS50x_2022_Harvard/tree/main/Week%207%20-%20SQL/songs) : _SQL queries that answer questions about a database of songs._
+- [Movies](https://github.com/odakris/CS50x_2022_Harvard/tree/main/Week%207%20-%20SQL/movies) : _SQL queries that answer questions about a database of movies._
+- [Fiftyville](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%207%20-%20SQL/fiftyville/log.sql) : _SQL queries to solve a mystery._
+
+<hr></hr>
+
+:eight: **Week 8 - HTML, CSS, JavaScript** 
+<br></br> 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- [Trivia](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%208%20-%20HTML%2C%20CSS%2C%20JavaScript/trivia/index.html) : _Webpage that lets users answer trivia questions._
+- [Homepage](https://github.com/odakris/CS50x_2022_Harvard/tree/main/Week%208%20-%20HTML%2C%20CSS%2C%20JavaScript/homepage) : _Simple web application with multiple pages._
+
+<hr></hr>
+
+:nine: **Week 8 - Flask** 
+<br></br> 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+- [Birthday](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%209%20-%20Flask/birthday/app.py) : _Web application to keep track of friends’ birthdays._
+- [Finance](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%209%20-%20Flask/finance/app.py) : _Website via which users can “buy” and “sell” stocks._
+
