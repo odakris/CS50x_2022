@@ -1,0 +1,20 @@
+sort1 uses: bubble sort
+
+How do you know?:
+time ./sort1 sorted50000.txt = 0m0.453s
+time ./sort3 sorted50000.txt = 0m3.020s
+sort1 is bubble sort (OMEGA(n)) as it is faster than sort 3 to realize that all values are already sorted.
+
+
+sort2 uses: merge sort
+
+How do you know?:
+time ./sort1 random50000.txt = 0m7.301s
+time ./sort2 random50000.txt = 0m0.392s
+time ./sort3 random50000.txt = 0m3.104s
+sort2 is merge sort as it's the fastest sorting random5000.txt.
+
+sort3 uses: selection sort
+
+How do you know?:
+sort3 (OMEGA(n²)) is selection sort as it is longer to realize that sorted50000.txt than sort2.
