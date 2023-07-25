@@ -6,7 +6,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 ## Content
 
-1️⃣  **Week 1 - C** :heavy_check_mark:
+1️⃣**Week 1 - C** :heavy_check_mark:
 <br></br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Mario Less](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/mario-less/mario-less.c) : _Create a right-aligned pyramid of blocks._
@@ -16,7 +16,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 <hr>
 
-2️⃣  **Week 2 - Arrays** :heavy_check_mark:
+2️⃣**Week 2 - Arrays** :heavy_check_mark:
 <br></br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Scrabble](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%202%20-%20Arrays/scrabble/scrabble.c) : _Determine which of two scrabble words is worth more._
@@ -25,7 +25,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 <hr>
 
-3️⃣  **Week 3 - Algorithms** :heavy_check_mark:
+3️⃣**Week 3 - Algorithms** :heavy_check_mark:
 <br></br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Sort](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%203%20-%20Algorithms/sort/answers.txt) : _Analyze three sorting programs to determine which algorithms they use._
@@ -35,7 +35,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 <hr>
 
-4️⃣  **Week 4 - Memory** :heavy_check_mark:
+4️⃣**Week 4 - Memory** :heavy_check_mark:
 <br></br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Volume](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%204%20-%20Memory/volume/volume.c) : _Program that modify the volume of an audio file._
@@ -44,7 +44,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 <hr>
 
-5️⃣  **Week 5 - Data Structures** :heavy_check_mark:
+5️⃣**Week 5 - Data Structures** :heavy_check_mark:
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Inheritance](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%205%20-%20Data%20Structures/inheritance/inheritance.c) : _Simulate the inheritance of blood types for each member of a family._
@@ -52,7 +52,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 <hr>
 
-6️⃣  **Week 6 - Python** :heavy_check_mark:
+6️⃣**Week 6 - Python** :heavy_check_mark:
 <br></br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - [World Cup](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/world-cup/tournament.py) : _Program to run simulations of the FIFA World Cup._
@@ -63,7 +63,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 <hr>
 
-7️⃣  **Week 7 - SQL** :heavy_check_mark:
+7️⃣**Week 7 - SQL** :heavy_check_mark:
 <br></br>
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - [Songs](https://github.com/odakris/CS50x_2022_Harvard/tree/main/Week%207%20-%20SQL/songs) : _SQL queries that answer questions about a database of songs._
@@ -72,7 +72,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 <hr>
 
-8️⃣  **Week 8 - HTML, CSS, JavaScript** :heavy_check_mark:
+8️⃣**Week 8 - HTML, CSS, JavaScript** :heavy_check_mark:
 <br></br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -82,7 +82,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 <hr>
 
-9️⃣  **Week 9 - Flask** :heavy_check_mark:
+9️⃣**Week 9 - Flask** :heavy_check_mark:
 <br></br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -95,7 +95,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 <hr>
 
-⭐  **Final Project** :heavy_check_mark:
+⭐**Final Project** :heavy_check_mark:
 <br></br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
