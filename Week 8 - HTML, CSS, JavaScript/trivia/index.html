@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+    <title>Trivia!</title>
+
+</head>
+
+<body>
+    <div class="header">
+        <h1>Trivia!</h1>
+    </div>
+
+    <div class="container">
+        <div class="section">
+            <h2>Part 1: Multiple Choice </h2>
+            <hr>
+            <!-- TODO: Add multiple choice question here -->
+            <h3>On what year happened the french revolution ?</h3>
+            <button type="submit" class="button" id="incorrect">2010</button>
+            <button type="submit" class="button" id="incorrect">1783</button>
+            <button type="submit" class="button" id="correct">1789</button>
+            <button type="submit" class="button" id="incorrect">1992</button>
+
+            <p class="feedback1"></p>
+        </div>
+
+        <div class="section">
+            <h2>Part 2: Free Response</h2>
+            <hr>
+            <!-- TODO: Add free response question here -->
+            <h3>What is the capital of France ?</h3>
+            <input type="text" placeholder="Answer" />
+            <button type="submit" class="button" id="response">Send</button>
+
+            <p class="feedback2"></p>
+
+        </div>
+    </div>
+    <script>
+
+        // TODO: Add code to check answers to questions
+
+        // PART 1
+        // Run script once DOM (webpage) is loaded
+        document.addEventListener('DOMContentLoaded', function () {
+            // Create a variable to select button with correct id
+            let correct = document.querySelector('#correct');
+            // Then we listen if the user click on this button
+            correct.addEventListener('click', function () {
+                // If he does click on it, turn it into red
+                correct.style.backgroundColor = 'green';
+                // And print "correct" into feedback1 id element <p> in HTML
+                document.querySelector('.feedback1').innerHTML = "Correct !";
+            });
+
+            // Creation of a variable that select ALL button with incorrect id
+            let incorrect = document.querySelectorAll('#incorrect');
+            // Here we loop through all button with incorrect id to continiously check if user click on one of them
+            for (let i = 0; i < incorrect.length; i++) {
+                // We listen if user click
+                incorrect[i].addEventListener('click', function () {
+                    // If he does turn it into red
+                    incorrect[i].style.backgroundColor = 'red';
+                    // and print "incorrect" into feedback1 id element <p> in HTML
+                    document.querySelector('.feedback1').innerHTML = "incorrect !";
+                });
+            }
+        });
+
+        // PART 2
+        // Definition of the right answer to Question2.
+        let answer = 'PARIS';
+        // Creation of a variable that select user entry
+        let user_answer = document.querySelector('input');
+
+        // Selection of the "Send" button
+        response = document.querySelector('#response');
+        // Listen if user click on the "Send" button
+        response.addEventListener('click', function () {
+            // If user put the right answer
+            if (user_answer.value.toUpperCase() == answer) {
+                // turn input background color to green and print "Correct"
+                user_answer.style.backgroundColor = ('green');
+                document.querySelector('.feedback2').innerHTML = "Correct !";
+            }
+            else {
+                // If wrong answer
+                // turn input background color to red and print "Incorrect"
+                user_answer.style.backgroundColor = ('red');
+                document.querySelector('.feedback2').innerHTML = "Incorrect !";
+            }
+        });
+
+    </script>
+</body>
+
+</html>
