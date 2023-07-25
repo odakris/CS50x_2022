@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+}
+
+.color {
+    background-color: black;
+    color: white;
+}
+
+.header {
+    text-align: center;
+    font-size: 2rem;
+}
+
+h1 {
+    font-size: 6rem;
+    margin: 4rem auto;
+}
+
+.nav {
+    background-color: white;
+}
+
+.nav-link {
+    color: black;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+nav .active{
+    background-color: pink;
+}
+
+.presentation {
+    margin-top: 1.5rem;
+    font-size: 2.5rem;
+    text-align: justify;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 0.7rem;
+  }
+
+img {
+    display: block;
+    width: 550px;
+    height: 500px;
+    border-radius: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image{
+    display: inline-block;
+    width: 33%;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+    display: block;
+    font-weight: normal;
+    padding: 0.3rem 0 0.3rem 0;
+    font-size: 1rem;
+}
+
+td{
+    text-align: end;
+    padding: 1rem 0;
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+table{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.title{
+    font-size: 4rem;
+    text-align: center;
+}
+
+.line
+{
+    border-bottom: 0.5rem solid pink;
+}
+
+.date{
+    text-align: start; !important
+}
+
+.work{
+    font-weight: normal;
+    font-size: 1rem;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.left{
+    text-align: start;
+}
