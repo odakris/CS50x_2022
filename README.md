@@ -107,9 +107,9 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 ## Credit
 
-[CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
-[David J. Malan](https://cs.harvard.edu/malan/)
-[Brian Yu](https://brianyu.me/)
-[Doug Lloyd](https://hls.harvard.edu/doug-lloyd/)
+[CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)<br></br> 
+[David J. Malan](https://cs.harvard.edu/malan/)<br></br> 
+[Brian Yu](https://brianyu.me/)<br></br> 
+[Doug Lloyd](https://hls.harvard.edu/doug-lloyd/)<br></br> 
 
 
