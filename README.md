@@ -5,8 +5,8 @@
 This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0), Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming with or without prior programming experience. This course teaches you how to solve problems, both with and without code, with an emphasis on correctness, design, and style. Topics include computational thinking, abstraction, algorithms, data structures, and computer science more generally. Problem sets inspired by the arts, humanities, social sciences, and sciences. More than teach you how to program in one language, this course teaches you how to program fundamentally and how to teach yourself new languages ultimately. The course starts with a traditional but omnipresent language called C that underlies today’s newer languages, via which you’ll learn not only about functions, variables, conditionals, loops, and more, but also about how computers themselves work underneath the hood, memory and all. The course then transitions to Python, a higher-level language that you’ll understand all the more because of C. Toward term’s end, the course introduces SQL, via which you can store data in databases, along with HTML, CSS, and JavaScript, via which you can create web and mobile apps alike. Course culminates in a final project.
 
 ## Content
-
-1️ **Week 1 - C** :heavy_check_mark:
+ 
+1️⃣**Week 1 - C** :heavy_check_mark:
 <br></br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Mario Less](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/mario-less/mario-less.c) : _Create a right-aligned pyramid of blocks._
@@ -15,7 +15,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Credit](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/credit/credit.c) : _Given a credit card number, determine card type (VISA,MASTERCARD,AMEX or INVALID) according to Luhn’s algorithm._
 
 <hr>
-
+ 
 2️⃣**Week 2 - Arrays** :heavy_check_mark:
 <br></br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -24,7 +24,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Substitution](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%202%20-%20Arrays/substitution/substitution.c) : _Cypher - Translate encrypt text back into the original message._
 
 <hr>
-
+ 
 3️⃣**Week 3 - Algorithms** :heavy_check_mark:
 <br></br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -34,7 +34,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Tideman](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%203%20-%20Algorithms/tideman/tideman.c) : _Program that runs a Tideman election._
 
 <hr>
-
+ 
 4️⃣**Week 4 - Memory** :heavy_check_mark:
 <br></br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -43,7 +43,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Recover](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%204%20-%20Memory/recover/recover.c) : _Program that recovers JPEGs from a forensic image._
 
 <hr>
-
+ 
 5️⃣**Week 5 - Data Structures** :heavy_check_mark:
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -51,7 +51,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Speller](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%205%20-%20Data%20Structures/speller/speller.c) : _Program that spell-checks a file using a hash table._
 
 <hr>
-
+ 
 6️⃣**Week 6 - Python** :heavy_check_mark:
 <br></br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -62,7 +62,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [DNA](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/dna/dna.py) : _Program that identifies a person based on their DNA._
 
 <hr>
-
+ 
 7️⃣**Week 7 - SQL** :heavy_check_mark:
 <br></br>
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -71,7 +71,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Fiftyville](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%207%20-%20SQL/fiftyville/log.sql) : _SQL queries to solve a mystery._
 
 <hr>
-
+ 
 8️⃣**Week 8 - HTML, CSS, JavaScript** :heavy_check_mark:
 <br></br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -81,7 +81,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Homepage](https://github.com/odakris/CS50x_2022_Harvard/tree/main/Week%208%20-%20HTML%2C%20CSS%2C%20JavaScript/homepage) : _Simple web application with multiple pages._
 
 <hr>
-
+ 
 9️⃣**Week 9 - Flask** :heavy_check_mark:
 <br></br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
