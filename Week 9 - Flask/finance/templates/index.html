@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Index
+{% endblock %}
+
+{% block main %}
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col" class="text-start">Symbol</th>
+            <th scope="col" class="text-start">Name</th>
+            <th scope="col" class="text-end">Shares</th>
+            <th scope="col" class="text-end">Price</th>
+            <th scope="col" class="text-end">TOTAL</th>
+        </tr>
+    </thead>
+    <tbody>
+            {% for user_rows in user_rows %}
+            <tr>
+                <td class="text-start">{{ user_rows.share_symbol }}</td>
+                <td class="text-start">{{ user_rows.share_name }}</td>
+                <td class="text-end">{{ user_rows.number_share }}</td>
+                <td class="text-end">{{ usd(user_rows.share_price) }}</td>
+                <td class="text-end">{{ usd(user_rows.share_price*user_rows.number_share) }}</td>
+            </tr>
+            {% endfor %}
+    </tbody>
+    <tfoot>
+        <tr>
+           <td colspan="4" class="text-end"><strong>Cash</strong></td>
+           <td class="text-end"><strong>{{ usd(cash) }}</strong></td>
+        </tr>
+        <tr>
+            <td colspan="4" class="text-end"><strong>TOTAL</strong></td>
+            <td class="text-end"><strong>{{ usd(total) }}</strong></td>
+        </tr>
+    </tfoot>
+</table>
+{% endblock %}
