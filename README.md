@@ -11,7 +11,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Mario Less](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/mario-less/mario-less.c) : _Create a right-aligned pyramid of blocks._
 - [Mario More](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/mario-more/mario-more.c) : _Create an adjacent pyramid of blocks._
-- [Cash](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/cash/cash.c) : _Greedy Algorithms - Minimize the number of coins given to a customer when making a change using greedy algorithms._
+- [Cash](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/cash/cash.c) : _Minimize the number of coins given to a customer when making a change using greedy algorithms._
 - [Credit](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/credit/credit.c) : _Given a credit card number, determine card type (VISA,MASTERCARD,AMEX or INVALID) according to Luhn’s algorithm._
 
 <hr></hr>
@@ -107,7 +107,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 ## Credit
 
-[CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)<br></br> 
+[CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)\n
 [David J. Malan](https://cs.harvard.edu/malan/)<br></br> 
 [Brian Yu](https://brianyu.me/)<br></br> 
 [Doug Lloyd](https://hls.harvard.edu/doug-lloyd/)<br></br> 
