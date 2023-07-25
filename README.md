@@ -8,7 +8,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 ## Content
 
-1️⃣ Week 1 - C 
+:one: Week 1 - C 
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Mario Less](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/mario-less/mario-less.c) : _Create a right-aligned pyramid of blocks._
@@ -16,7 +16,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 - [Cash](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/cash/cash.c) : _Greedy Algorithms - Minimize the number of coins given to a customer when making a change using greedy algorithms._
 - [Credit](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/credit/credit.c) : _Given a credit card number, determine card type (VISA,MASTERCARD,AMEX or INVALID) according to Luhn’s algorithm_
 
-2️⃣ Week 2 - Arrays 
+:two: Week 2 - Arrays 
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Scrabble](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%202%20-%20Arrays/scrabble/scrabble.c) : _Determine which of two scrabble words is worth more._
