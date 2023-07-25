@@ -61,4 +61,4 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 - [Mario More](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/sentimental-mario-more/mario.py) : _Create an adjacent pyramid of blocks._
 - [Credit](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/sentimental-credit/credit.py) : _Given a credit card number, determine card type (VISA,MASTERCARD,AMEX or INVALID) according to Luhn’s algorithm._
 - [Readability](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/sentimental-readability/readability.py) : _Computes the approximate grade level needed to comprehend some text._
-- [DNA](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/dna/dna.py) : _ Program that identifies a person based on their DNA._
+- [DNA](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/dna/dna.py) : _Program that identifies a person based on their DNA._
