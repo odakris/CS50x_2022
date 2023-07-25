@@ -1,1 +1,1 @@
-# CS50x 2022 - nIntroduction to Computer Sciences
+# CS50x 2022 - Introduction to Computer Sciences
