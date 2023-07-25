@@ -8,7 +8,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 ## Content
 
-:one: **Week 1 - C**
+:one: **Week 1 - C** :heavy_check_mark:
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Mario Less](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/mario-less/mario-less.c) : _Create a right-aligned pyramid of blocks._
@@ -18,7 +18,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 <hr></hr>
 
-:two: **Week 2 - Arrays** 
+:two: **Week 2 - Arrays** :heavy_check_mark:
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Scrabble](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%202%20-%20Arrays/scrabble/scrabble.c) : _Determine which of two scrabble words is worth more._
@@ -27,7 +27,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 <hr></hr>
 
-:three: **Week 3 - Algorithms** 
+:three: **Week 3 - Algorithms** :heavy_check_mark:
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Sort](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%203%20-%20Algorithms/sort/answers.txt) : _Analyze three sorting programs to determine which algorithms they use._
@@ -37,7 +37,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 <hr></hr>
 
-:four: **Week 4 - Memory** 
+:four: **Week 4 - Memory** :heavy_check_mark:
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Volume](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%204%20-%20Memory/volume/volume.c) : _Program that modify the volume of an audio file._
@@ -46,7 +46,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 <hr></hr>
 
-:five: **Week 5 - Data Structures** 
+:five: **Week 5 - Data Structures** :heavy_check_mark:
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Inheritance](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%205%20-%20Data%20Structures/inheritance/inheritance.c) : _Simulate the inheritance of blood types for each member of a family._
@@ -54,7 +54,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 <hr></hr>
 
-:six: **Week 6 - Python** 
+:six: **Week 6 - Python** :heavy_check_mark:
 <br></br> 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - [World Cup](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/world-cup/tournament.py) : _Program to run simulations of the FIFA World Cup._
@@ -65,7 +65,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 <hr></hr>
 
-:seven: **Week 7 - SQL** 
+:seven: **Week 7 - SQL** :heavy_check_mark:
 <br></br> 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - [Songs](https://github.com/odakris/CS50x_2022_Harvard/tree/main/Week%207%20-%20SQL/songs) : _SQL queries that answer questions about a database of songs._
@@ -74,7 +74,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 <hr></hr>
 
-:eight: **Week 8 - HTML, CSS, JavaScript** 
+:eight: **Week 8 - HTML, CSS, JavaScript** :heavy_check_mark:
 <br></br> 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -84,7 +84,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 <hr></hr>
 
-:nine: **Week 8 - Flask** 
+:nine: **Week 9 - Flask** :heavy_check_mark:
 <br></br> 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -94,4 +94,18 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 - [Birthday](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%209%20-%20Flask/birthday/app.py) : _Web application to keep track of friends’ birthdays._
 - [Finance](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%209%20-%20Flask/finance/app.py) : _Website via which users can “buy” and “sell” stocks._
+
+<hr></hr>
+
+:trophy: Final Project :heavy_check_mark:
+<br></br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+- [Foodies](https://github.com/odakris/CS50x_2022_Harvard/tree/main/FINAL_PROJECT/project) : _Web application that proposes recipes based on ingredients that is in your fridge using [Spoonacular API](https://spoonacular.com/food-api)_
+
+
 
