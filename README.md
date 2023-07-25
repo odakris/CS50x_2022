@@ -14,7 +14,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Cash](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/cash/cash.c) : _Minimize the number of coins given to a customer when making a change using greedy algorithms._
 - [Credit](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/credit/credit.c) : _Given a credit card number, determine card type (VISA,MASTERCARD,AMEX or INVALID) according to Luhn’s algorithm._
 
-<hr>
+<hr></hr>
 
 2️⃣  **Week 2 - Arrays** :heavy_check_mark:
 
@@ -23,7 +23,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Readability](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%202%20-%20Arrays/readability/readability.c) : _Computes the approximate grade level needed to comprehend some text._
 - [Substitution](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%202%20-%20Arrays/substitution/substitution.c) : _Cypher - Translate encrypt text back into the original message._
 
-<hr>
+<hr></hr>
 
 3️⃣  **Week 3 - Algorithms** :heavy_check_mark:
 
@@ -33,16 +33,16 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Runoff](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%203%20-%20Algorithms/runoff/runoff.c) : _Program that runs a Runoff election._
 - [Tideman](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%203%20-%20Algorithms/tideman/tideman.c) : _Program that runs a Tideman election._
 
-<hr>
+<hr></hr>
 
-4️⃣**Week 4 - Memory** :heavy_check_mark:
+4️⃣  **Week 4 - Memory** :heavy_check_mark:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Volume](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%204%20-%20Memory/volume/volume.c) : _Program that modify the volume of an audio file._
 - [Filter More](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%204%20-%20Memory/filter-more/filter.c) : _Program that applies filters to BMPs._
 - [Recover](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%204%20-%20Memory/recover/recover.c) : _Program that recovers JPEGs from a forensic image._
 
-<hr>
+<hr></hr>
 
 5️⃣  **Week 5 - Data Structures** :heavy_check_mark:
 
@@ -50,7 +50,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Inheritance](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%205%20-%20Data%20Structures/inheritance/inheritance.c) : _Simulate the inheritance of blood types for each member of a family._
 - [Speller](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%205%20-%20Data%20Structures/speller/speller.c) : _Program that spell-checks a file using a hash table._
 
-<hr>
+<hr></hr>
 
 6️⃣  **Week 6 - Python** :heavy_check_mark:
 
@@ -61,7 +61,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Readability](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/sentimental-readability/readability.py) : _Computes the approximate grade level needed to comprehend some text._
 - [DNA](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/dna/dna.py) : _Program that identifies a person based on their DNA._
 
-<hr>
+<hr></hr>
 
 7️⃣  **Week 7 - SQL** :heavy_check_mark:
 
@@ -70,7 +70,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Movies](https://github.com/odakris/CS50x_2022_Harvard/tree/main/Week%207%20-%20SQL/movies) : _SQL queries that answer questions about a database of movies._
 - [Fiftyville](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%207%20-%20SQL/fiftyville/log.sql) : _SQL queries to solve a mystery._
 
-<hr>
+<hr></hr>
 
 8️⃣  **Week 8 - HTML, CSS, JavaScript** :heavy_check_mark:
 
@@ -80,7 +80,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Trivia](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%208%20-%20HTML%2C%20CSS%2C%20JavaScript/trivia/index.html) : _Webpage that lets users answer trivia questions._
 - [Homepage](https://github.com/odakris/CS50x_2022_Harvard/tree/main/Week%208%20-%20HTML%2C%20CSS%2C%20JavaScript/homepage) : _Simple web application with multiple pages._
 
-<hr>
+<hr></hr>
 
 9️⃣  **Week 9 - Flask** :heavy_check_mark:
 
@@ -93,7 +93,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Birthday](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%209%20-%20Flask/birthday/app.py) : _Web application to keep track of friends’ birthdays._
 - [Finance](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%209%20-%20Flask/finance/app.py) : _Website via which users can “buy” and “sell” stocks._
 
-<hr>
+<hr></hr>
 
 🌟  **Final Project** :heavy_check_mark:
 
