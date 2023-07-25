@@ -8,7 +8,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 ## Content
 
-:one: Week 1 - C 
+:one: **Week 1 - C**
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Mario Less](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/mario-less/mario-less.c) : _Create a right-aligned pyramid of blocks._
@@ -18,7 +18,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 <hr></hr>
 
-:two: Week 2 - Arrays 
+:two: **Week 2 - Arrays** 
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Scrabble](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%202%20-%20Arrays/scrabble/scrabble.c) : _Determine which of two scrabble words is worth more._
@@ -27,7 +27,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 <hr></hr>
 
-:three: Week 3 - Algorithms 
+:three: **Week 3 - Algorithms** 
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Sort](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%203%20-%20Algorithms/sort/answers.txt) : _Analyze three sorting programs to determine which algorithms they use._
@@ -37,7 +37,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 <hr></hr>
 
-:four: Week 4 - Memory 
+:four: **Week 4 - Memory** 
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Volume](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%204%20-%20Memory/volume/volume.c) : _Program that modify the volume of an audio file._
@@ -46,7 +46,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 <hr></hr>
 
-:five: Week 5 - Data Structures 
+:five: **Week 5 - Data Structures** 
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Inheritance](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%205%20-%20Data%20Structures/inheritance/inheritance.c) : _Simulate the inheritance of blood types for each member of a family._
@@ -54,7 +54,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 <hr></hr>
 
-:six: Week 6 - Python 
+:six: **Week 6 - Python** 
 <br></br> 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - [World Cup](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/world-cup/tournament.py) : _Program to run simulations of the FIFA World Cup._
