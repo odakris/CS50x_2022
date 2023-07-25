@@ -95,7 +95,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 <hr>
 
-🏆  **Final Project** :heavy_check_mark:
+⭐  **Final Project** :heavy_check_mark:
 <br></br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -104,6 +104,9 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 - [Foodies](https://github.com/odakris/CS50x_2022_Harvard/tree/main/FINAL_PROJECT/project) : _Web application that proposes recipes based on ingredients that is in your fridge using [Spoonacular API](https://spoonacular.com/food-api)._
+
+🏆## Certification
+
 
 ## Credit
 
