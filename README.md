@@ -12,7 +12,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Mario Less](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/mario-less/mario-less.c) : _Create a right-aligned pyramid of blocks._
 - [Mario More](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/mario-more/mario-more.c) : _Create an adjacent pyramid of blocks._
 - [Cash](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/cash/cash.c) : _Minimize the number of coins given to a customer when making a change using greedy algorithms._
-- [Credit](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/credit/credit.c) : _Given a credit card number, determine card type (VISA,MASTERCARD,AMEX or INVALID) according to Luhn’s algorithm._
+- [Credit](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/credit/credit.c) : _Determine card type (VISA,MASTERCARD,AMEX or INVALID) according to Luhn’s algorithm._
 
 <hr></hr>
 
@@ -57,7 +57,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - [World Cup](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/world-cup/tournament.py) : _Program to run simulations of the FIFA World Cup._
 - [Mario More](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/sentimental-mario-more/mario.py) : _Create an adjacent pyramid of blocks._
-- [Credit](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/sentimental-credit/credit.py) : _Given a credit card number, determine card type (VISA,MASTERCARD,AMEX or INVALID) according to Luhn’s algorithm._
+- [Credit](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/sentimental-credit/credit.py) : _Determine card type (VISA,MASTERCARD,AMEX or INVALID) according to Luhn’s algorithm._
 - [Readability](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/sentimental-readability/readability.py) : _Computes the approximate grade level needed to comprehend some text._
 - [DNA](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%206%20-%20Python/dna/dna.py) : _Program that identifies a person based on their DNA._
 
