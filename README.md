@@ -44,7 +44,7 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 
 <hr>
  
-5️⃣**Week 5 - Data Structures** :heavy_check_mark:
+ 5️⃣**Week 5 - Data Structures** :heavy_check_mark:
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Inheritance](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%205%20-%20Data%20Structures/inheritance/inheritance.c) : _Simulate the inheritance of blood types for each member of a family._
