@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <link href="styles.css" rel="stylesheet">
+    <title>My Webpage</title>
+</head>
+
+<body class="color">
+    <header class="header">
+        <h1>Christopher DENIS</h1>
+    </header>
+    <main>
+        <div class="image">
+            <a href="./bio.html"><img src="/images/CV_defaut.png" alt="bio" id="bio"></a>
+        </div>
+        <div class="image">
+            <a href="./academic_background.html"><img src="/images/education2.png" alt="education" id="education"></a>
+        </div>
+        <div class="image">
+            <a href="./professional_experience.html"><img src="/images/work2.png" alt="work" id="work"></a>
+        </div>
+    </main>
+
+    <footer>
+        CS50 / PSET8 / homepage problem set
+    </footer>
+
+    <script>
+
+            let bio = document.getElementById('bio');
+            bio.addEventListener('mouseover', function (event) {
+                bio.src = "/images/CV_bis.png";
+            });
+            bio.addEventListener('mouseout', function (event) {
+                bio.src = "/images/CV_defaut.png";
+            });
+
+            let education = document.getElementById('education');
+            education.addEventListener('mouseover', function (event) {
+                education.src = "/images/education1.jpg";
+            });
+            education.addEventListener('mouseout', function (event) {
+                education.src = "/images/education2.png";
+            });
+
+            let work = document.getElementById('work');
+            work.addEventListener('mouseover', function (event) {
+                work.src = "/images/work1.jpg";
+            });
+            work.addEventListener('mouseout', function (event) {
+                work.src = "/images/work2.png";
+            });
+
+        </script>
+
+</body>
+
+</html>
