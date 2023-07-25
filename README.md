@@ -51,7 +51,6 @@ This is [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
 - [Speller](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%205%20-%20Data%20Structures/speller/speller.c) : _Program that spell-checks a file using a hash table._
 
 <hr>
- 
  6️⃣**Week 6 - Python** :heavy_check_mark:
 <br></br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
