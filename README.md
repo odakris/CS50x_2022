@@ -15,7 +15,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 - [Mario More](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/mario-more/mario-more.c) : _Create an adjacent pyramid of blocks._
 - [Cash](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/cash/cash.c) : _Greedy Algorithms - Minimize the number of coins given to a customer when making a change using greedy algorithms._
 - [Credit](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/credit/credit.c) : _Given a credit card number, determine card type (VISA,MASTERCARD,AMEX or INVALID) according to Luhn’s algorithm_
-
+ 
 :two: Week 2 - Arrays 
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
