@@ -9,4 +9,4 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 ## Content
 
 :one: Week 1 - C
-- [mario less]([https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/hello%20/hello.c](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/mario-less/mario-less.c)https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/mario-less/mario-less.c) _create a right-aligned pyramid of blocks._
+- [mario less](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/mario-less/mario-less.c) _create a right-aligned pyramid of blocks._
