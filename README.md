@@ -8,7 +8,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 
 ## Content
 
-:one: ###**Week 1 - C** :heavy_check_mark:
+:one: ### **Week 1 - C** :heavy_check_mark:
 <br></br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - [Mario Less](https://github.com/odakris/CS50x_2022_Harvard/blob/main/Week%201%20-%20C%20/mario-less/mario-less.c) : _Create a right-aligned pyramid of blocks._
