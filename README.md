@@ -107,5 +107,7 @@ This is CS50, Harvard University’s introduction to the intellectual enterprise
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 - [Foodies](https://github.com/odakris/CS50x_2022_Harvard/tree/main/FINAL_PROJECT/project) : _Web application that proposes recipes based on ingredients that is in your fridge using [Spoonacular API](https://spoonacular.com/food-api)._
 
+## Credit
+
 
 
