@@ -1,7 +1,7 @@
 # CS50x 2022 - Introduction to Computer Science
 
 ## Presentation
- 
+
 This is **[CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)**, Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming with or without prior programming experience. This course teaches you how to solve problems, both with and without code, with an emphasis on correctness, design, and style. Topics include computational thinking, abstraction, algorithms, data structures, and computer science more generally. Problem sets inspired by the arts, humanities, social sciences, and sciences. More than teach you how to program in one language, this course teaches you how to program fundamentally and how to teach yourself new languages ultimately. The course starts with a traditional but omnipresent language called C that underlies today’s newer languages, via which you’ll learn not only about functions, variables, conditionals, loops, and more, but also about how computers themselves work underneath the hood, memory and all. The course then transitions to Python, a higher-level language that you’ll understand all the more because of C. Toward term’s end, the course introduces SQL, via which you can store data in databases, along with HTML, CSS, and JavaScript, via which you can create web and mobile apps alike. Course culminates in a final project.
 
 ## Content
@@ -106,6 +106,10 @@ This is **[CS50](https://pll.harvard.edu/course/cs50-introduction-computer-scien
 - [Foodies](https://github.com/odakris/CS50x_2022_Harvard/tree/main/FINAL_PROJECT/project) : _Web application that proposes recipes based on ingredients that is in your fridge using [Spoonacular API](https://spoonacular.com/food-api)._
 
 ## Certification 🏆 
+
+<p align="center">
+ <img src="./CS50x_certificate.png">
+</p>
 
 
 ## Credit
