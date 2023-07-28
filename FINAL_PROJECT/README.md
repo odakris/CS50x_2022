@@ -17,7 +17,7 @@
 
 ## Register Page
 
-![Register page](./static/readme_images/register.png)
+![Register page](./project/static/images/register.png)
 
 In order to access website user have to register by providing a username and a confirmed password. Both username and password are stored into a database.
 
