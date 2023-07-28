@@ -41,7 +41,7 @@ nav .navbar-brand .green {
 /* #### INDEX #### */
 
 body.main_page {
-    background-image: url('./project/static/images/pexels-lukas-349608.jpg');
+    background-image: url('images/pexels-lukas-349608.jpg');
     background-position: fixed fixed;
     background-size: cover;
 }
@@ -180,7 +180,7 @@ img {
 /* #### RECIPES MODAL #### */
 
 body.search {
-    background-image: url('./project/static/images/pexels-alleksana-4113891.jpg');
+    background-image: url('images/pexels-alleksana-4113891.jpg');
     background-position: fixed fixed;
     background-size: cover;
 }
@@ -262,7 +262,7 @@ body.modal-open {
 }
 
 body.my_recipe_page {
-    background-image: url('./project/static/images/pexels-karolina-grabowska-4020559.jpg');
+    background-image: url('images/pexels-karolina-grabowska-4020559.jpg');
     background-position: fixed fixed;
     background-size: cover;
 }
