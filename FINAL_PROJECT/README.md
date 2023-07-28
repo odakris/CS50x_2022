@@ -23,13 +23,13 @@ In order to access website user have to register by providing a username and a c
 
 ## Login Page
 
-![Login page](./static/readme_images/login.png)
+![Login page](./project/static/readme_images/login.png)
 
 Once registered, user will have to login and must provide username and password matching with database.
 
 ## Index Page
 
-![Index page](./static/readme_images/index.png)
+![Index page](./project/static/readme_images/index.png)
 
 When accessing main page, username is display to welcome user.
 
@@ -49,7 +49,7 @@ Some checklists are available to get more precise results. There is three subdiv
    - Main Course
    - Desserts
 
-   ![Meal Type](./static/readme_images/mealtype.png)
+   ![Meal Type](./project/static/readme_images/mealtype.png)
 
 2. #### Cuisine Type
 
@@ -75,7 +75,7 @@ Some checklists are available to get more precise results. There is three subdiv
     - Thaï
     - Vietnamese
 
-   ![Cuisine Type](./static/readme_images/cuisinetype.png)
+   ![Cuisine Type](./project/static/readme_images/cuisinetype.png)
 
 3. #### Diet Type
 
@@ -83,21 +83,21 @@ Some checklists are available to get more precise results. There is three subdiv
     - Vegetarian
     - Vegan
 
-   ![Diet Type](./static/readme_images/diettype.png)
+   ![Diet Type](./project/static/readme_images/diettype.png)
 
 ## Recipes Result Page
 
-![Result page](./static/readme_images/recipes_1.png)
+![Result page](./project/static/readme_images/recipes_1.png)
 
 Recipes that match user's requirements will display in the result page. User can see recipe's name, a descriptive image, an approximate cooking time and servings.
 
-![No Recipes](./static/readme_images/no_results.png)
+![No Recipes](./project/static/readme_images/no_results.png)
 
 If there is no recipes matching user requirements then a message will be display asking user to try again.
 
 ## Modal
 
-![Modal](./static/readme_images/modal.png)
+![Modal](./project/static/readme_images/modal.png)
 
 [Bootstrap's modal](https://getbootstrap.com/docs/5.0/components/modal/) is used to show more information of the recipes such as ingredients and steps to follow.
 
@@ -107,16 +107,16 @@ If current recipe is already saved then user will get a flash notifiaction and w
 
 ## Save Recipes
 
-![My Recipes](./static/readme_images/myrecipes.png)
+![My Recipes](./project/static/readme_images/myrecipes.png)
 
 User's saved recipes will be display into "My Recipes" tab. From this tab, user will have access to the same informations that were display from results page. User can easily remove any recipes from modal button.
 
-![No Saved Recipe](./static/readme_images/no_saved.png)
+![No Saved Recipe](./project/static/readme_images/no_saved.png)
 
 Until user save his first recipe, a message will be display.
 
 ## Set New Password
 
-![New Password](./static/readme_images/password.png)
+![New Password](./project/static/readme_images/password.png)
 
 From "Set New Password" tab, users can set new password. Old password must be provide and new password have to be confirm twice to be accepted. In case of wrong inputs, users will get a flash notification.
