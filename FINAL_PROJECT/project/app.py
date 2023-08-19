@@ -23,12 +23,18 @@ Session(app)
 # Configure CS50 Library to use SQLite database
 db = SQL("sqlite:///foodies.db")
 
+# SET API_KEY HERE
+api_key = "SET API_KEY HERE"
+
+# Make sure API key is set
+if not api_key:
+    raise RuntimeError("API_KEY not set")
+
 url = "https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/"
 
 headers = {
     'x-rapidapi-host': "spoonacular-recipe-food-nutrition-v1.p.rapidapi.com",
-    'x-rapidapi-key': "f9e17919b0mshd7ca15299bf242ap10ba2ejsnaa8e2bb9e6d5",
-    #'x-rapidapi-key': "8a027cc530mshb38689bbb005d18p1b04c8jsned72bba4d563",
+    'x-rapidapi-key': f"{api_key}"
 }
 
 
