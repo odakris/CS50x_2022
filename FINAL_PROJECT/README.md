@@ -6,12 +6,54 @@
 
 # Technologies
 
-- Flask
-- Python
-- SQLite
-- HTML
-- CSS
-- Bootstrap 5
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+# Instructions
+
+### Step 1
+Clone this repository and install [python](https://www.python.org/downloads/) on your machine. Use the Download Python button that appears first on the page to download the latest version.
+
+### Step 2
+Then, run the following command to create a new virtual environment:
+
+```
+python -m venv venv
+```
+
+### Step 3
+After creating the virtual environment, we need to activate it. To activate the virtual environment, run the following command in the terminal:
+
+```
+venv\Scripts\activate
+```
+
+### Step 4
+Then, install flask
+
+```
+pip install flask
+```
+
+### Step 7
+You will need to sing up to [spoonacular.com](https://spoonacular.com/food-api) in order to get an API KEY.
+Once you get your own key, just fill the api_key variable line 27 of app.py file:
+
+```
+26  # SET API_KEY HERE
+27  api_key = "SET API_KEY HERE"
+```
+
+### Step 6
+In the project directory, run the following script:
+
+```
+flask run
+```
 
 # Features
 
@@ -120,3 +162,11 @@ Until user save his first recipe, a message will be display.
 ![New Password](./project/static/images/password.png)
 
 From "Set New Password" tab, users can set new password. Old password must be provide and new password have to be confirm twice to be accepted. In case of wrong inputs, users will get a flash notification.
+
+
+# Credit
+
+**[CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)**<br>
+**[David J. Malan](https://cs.harvard.edu/malan/)**<br>
+**[Brian Yu](https://brianyu.me/)**<br>
+**[Doug Lloyd](https://hls.harvard.edu/doug-lloyd/)**<br>
